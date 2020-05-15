@@ -9,6 +9,6 @@
 画面サイズにあわせてレイアウトを切り替えていくことができるレスポンシブウェブデザインについて学んでいきます。
 
 ### URL
-https://github.com/NanaTerada/lesson_slot_machine_js_v6.git
+https://github.com/NanaTerada/lesson_-responsive_css.git
 
 ### メモ
