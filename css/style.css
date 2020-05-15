@@ -1,0 +1,6 @@
+@media (min-width: 600px) and (max-width:800px) { 
+    /* 600～800の間 */
+    body {
+        background: skyblue;
+    }
+}
